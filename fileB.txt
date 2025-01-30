@@ -1,1 +1,1 @@
-we are going to merge two files fileA AND fileB
+we are going to merge two files fileA AND fileBHai,this is github introduction
